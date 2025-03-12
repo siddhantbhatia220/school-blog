@@ -1,1 +1,3 @@
-This is the content of file science-article.md in add-article branch.
+<<<<<<< HEAD
+This is the content of file science-article.md in add-article branch..
+	
